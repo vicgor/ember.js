@@ -163,3 +163,5 @@ See <http://emberjs.com/> for annotated introductory documentation.
 
 * The website, along with documentation will be built into the `build`
   directory
+
+The end
